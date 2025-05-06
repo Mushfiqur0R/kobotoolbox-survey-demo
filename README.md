@@ -13,10 +13,10 @@ This repository contains a sample **XLSForm** used for simulating advanced digit
 ## 🖼️ Preview
 
 ### 1. Form Preview on KoboToolbox:
-![Form Preview](./screenshots/form_preview.png)
+![Form Preview](form_preview.png)
 
 ### 2. Sample Submission Screen:
-![Submission](./screenshots/submission_example.png)
+![Submission](submission_example.png)
 
 ## 🚀 How to Use
 
